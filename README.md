@@ -11,15 +11,12 @@ Each logo is designed with a unique concept, clean aesthetics, and modern approa
 Modern and bold logo design for a footwear brand.  
 Focus on strength, comfort, and style.
 
-**Folder:** `01-Shoes-Logo`
-
 ---
 
 ### 2. Clothing Brand Logo
 Minimal and stylish logo for a fashion/clothing brand.  
 Clean typography with elegant visual identity.
 
-**Folder:** `02-Clothing-Logo`
 
 ---
 
@@ -27,7 +24,6 @@ Clean typography with elegant visual identity.
 Warm and inviting logo design for a coffee shop/brand.  
 Emphasizes comfort, aroma, and premium feel.
 
-**Folder:** `03-Coffee-Logo`
 
 ---
 
@@ -35,15 +31,12 @@ Emphasizes comfort, aroma, and premium feel.
 Fun, appetizing, and energetic logo for a pizza brand.  
 Designed to attract food lovers with bold visuals.
 
-**Folder:** `04-Pizza-Logo`
-
 ---
 
 ### 5. Glasses / Eyewear Logo
 Sleek and modern logo for an eyewear/glasses brand.  
 Focus on clarity, style, and sophistication.
 
-**Folder:** `05-Glasses-Logo`
 
 ---
 
